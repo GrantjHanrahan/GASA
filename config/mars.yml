@@ -1,0 +1,6 @@
+development:
+  mars_api_key: Rails.application.secrets.mars_api_key
+production:
+  mars_api_key: Rails.application.secrets.mars_api_key
+test:
+  mars_api_key: Rails.application.secrets.mars_api_key

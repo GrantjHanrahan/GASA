@@ -11,4 +11,5 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require three
 //= require_tree .

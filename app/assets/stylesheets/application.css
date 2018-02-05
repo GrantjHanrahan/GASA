@@ -13,3 +13,28 @@
  *= require_tree .
  *= require_self
  */
+ body{
+  background: url("http://theterramarproject.org/thedailycatch/wp-content/uploads/2017/05/earth-NASA-Wikimedia-Commons-CC0-1.jpg")
+    no-repeat center left fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     margin-left: 5%;
+     margin-top: 1%;
+   }
+
+h1{
+  color: orangered;
+}
+
+a{
+  color: red;
+  font-weight: 800;
+  font-size: 140%;
+}
+a:hover{
+  color: lightyellow;
+  font-weight: 800;
+
+}
