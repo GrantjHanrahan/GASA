@@ -44,8 +44,8 @@ $('#searchM').on('click', function(e){
       $('<h4>').html(`Sol: ${elem.sol}<br>Earth Date: ${elem.earth_date}`).appendTo('#results');
       $('<h5>').html(elem.camera.full_name).appendTo('#results');
       // $('<img src>').html(elem.img_src).appendTo('#results');
-      $('#results').append("<img src="+image+"></img>");
-      // $('#results').append("<a href="+image+">View Image</a>");
+      $('#results').append("<img src="+image+"></img><br>");
+      $('#results').append("<a href="+image+">View Image</a>");
       $('<hr/>').appendTo('#results');
     });
 
