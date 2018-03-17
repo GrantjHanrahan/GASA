@@ -14,7 +14,7 @@
  *= require_self
  */
  body{
-  background: url("http://theterramarproject.org/thedailycatch/wp-content/uploads/2017/05/earth-NASA-Wikimedia-Commons-CC0-1.jpg")
+  background: url("/assets/red-space.jpg")
     no-repeat center left fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -37,4 +37,35 @@ a:hover{
   color: lightyellow;
   font-weight: 800;
 
+}
+
+.home{
+  margin-top: 15%;
+  text-align: center;
+  color: white;
+}
+
+.mars-rover{
+  margin-top: 8%;
+}
+
+.nav-item{
+  margin-right: 10px;
+}
+
+nav{
+  text-align: left !important;
+  /* background-color: black; */
+}
+
+.user-login label{
+  color: white;
+}
+
+#searchM{
+  margin-right: 10%;
+}
+
+#results{
+  color: whitesmoke;
 }

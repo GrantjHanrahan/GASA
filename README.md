@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project completed for fun during Web Development Course at General Assembly Sydney.
 
-Things you may want to cover:
+Site allows users to view images from NASA's Curiosity Rover on Mars.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Experimental 3D sphere has also been added through the Three.js framework.
